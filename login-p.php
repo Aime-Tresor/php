@@ -28,7 +28,7 @@ session_start();
                 </div>
             </div>
             <div class=" d-flex flex-column text-center px-2 mt-3 mb-1"> <button class="btn btn-primary rounded-pill btn-block confirm-button">Sign In</button></div> 
-        <div> <a href="#" class="terms mt-3" style="color:red;"><b>Forgot password?</b></a> </div>
+        <div> &nbsp;&nbsp;&nbsp;<a href="#" class="terms mt-3" style="color:red;text-decolation:none;"><b>Forgot password?</b></a> </div>
         </form>    
     </div>
     </div>

@@ -8,11 +8,11 @@
     <title>Login </title>
 </head>
 <body class="mr-5 ml-5">
-<div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
+<div class="row pt1 pb-1 bg-danger" style=" color:#fff;"><center>Assignment</center> </div>
 <div class="row pt-2 " >
     <div class="col-md-8">
         <div class="">
-        <div class="position-relative" style="height:25vh; background: url(Capture1.png); background-size: cover; background-repeat: no-repeat">
+        <div class="position-relative" style="height:25vh; background: url(pict.png); background-size: cover; background-repeat: no-repeat">
         <span class="position-absolute bottom-0 start-0 ml-2">
              <img class="img pt-1 " src="Picture1.png" alt="" width="150px">
         </span>
@@ -24,7 +24,7 @@
            
                 <h6><center>Headline</center></h6>
             </div>
-            <span>Lorem ipsum dolor sit amet </span>
+           
             <span><a href="logout.php">Logout</a></span>
         </div>
         <div class="row ">
@@ -38,7 +38,8 @@
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <input class="form-control" type="password" placeholder="password" name="password"> </div>
-                            </div>
+                            <br>
+                                </div>
                         </div>
                         <div class="row">
                         <div class="col-sm-3"><label for="">New password</b></label></div>
@@ -47,7 +48,8 @@
                                     <input class="form-control" type="password" placeholder="password" name="password"> </div>
                             </div>
                         </div>
-                        <div> <input type="checkbox" class="terms mt-3" style="color:skyblue;"><span>Lorem ipsum dolor sit amet</span> </center></div>
+                        <div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" class="terms mt-3" style="color:skyblue;">&nbsp;&nbsp;<span>remind me to change password for each 3 month</span> </center></div><br>
+
                         <div class="row">
                             <div class="col-sm-6">
 

@@ -58,7 +58,7 @@ session_start();
                 </div>
             </div>
             <div class=" d-flex flex-column text-center px-5 mt-3 mb-1 mr-3 ml-3"> <button class="btn rounded-pill bg-info btn-block confirm-button">Next</button></div> <hr>
-            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"><button class="btn rounded-pill btn-danger btn-block confirm-button">Continue with google</button></div> 
+            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"><button class="btn rounded-pill btn-danger btn-block confirm-button" style="bg-color:red;">Continue with google</button></div> 
         <div> <center><b>Already have an account? <a href="login.php" class="terms mt-3" style="color:red;">SIGN IN</b></center></a> </div>
         </form>
         <?php

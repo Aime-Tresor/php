@@ -30,7 +30,7 @@
             
             <div class=" d-flex flex-column text-center px-5 mt-3 mb-1 mr-3 ml-3"> <button class="btn rounded-pill bg-info btn-block confirm-button">Next</button></div> <hr>
             <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"><button class="btn rounded-pill btn-danger btn-block confirm-button">&nbsp;&nbsp;&nbsp;&nbsp;Continue with google&nbsp;&nbsp;&nbsp;&nbsp;</button></div> 
-        <div> <a href="create.php" class="terms mt-3" style="color:skyblue;"><b>Create account</b></a> </div>
+        <div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="create.php" class="terms mt-3" style="color:skyblue;"><b>Create account</b></a> </div>
         </form>    
     </div>
     </div>
